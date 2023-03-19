@@ -60,6 +60,8 @@ Run the following command in your terminal:
     ```
     docker-compose up --build
     ```
+    
+1A. Use following command to not store your token in plain text file
    
     BOT_TOKEN=your-bot-token docker-compose up --build
 
